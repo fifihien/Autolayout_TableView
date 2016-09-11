@@ -1,0 +1,3 @@
+[submodule "DemoAutoLayoutTableView"]
+	path = DemoAutoLayoutTableView
+	url = ../../mapbook9/DemoAutoLayoutTableView.git
